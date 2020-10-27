@@ -1,0 +1,12 @@
+{
+    "name": "cthutq/hexlet",
+    "description": "training package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ser",
+            "email": "ser@ser.io"
+        }
+    ],
+    "require": {}
+}
